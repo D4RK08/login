@@ -25,7 +25,7 @@ document.getElementById("Enter").onclick=function (){
                 var posizione=i;
                 if (utenti.utent[posizione].password === Password){
                     console.log("password giusta") 
-                    window.location = "home.html";
+                    window.location = "https://github.com/D4RK08/login/blob/main/index.html";
                 }
             }
             i++;
@@ -34,5 +34,5 @@ document.getElementById("Enter").onclick=function (){
 }
        
 document.getElementById("New").onclick=function (){
-    window.location = "sigin.html";
+    window.location = "https://github.com/D4RK08/login/blob/main/sigin.html";
 }
