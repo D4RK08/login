@@ -1,6 +1,6 @@
 document.getElementById("Enter").onclick=function (){
     
-    let requestURL = './utenti.json';
+    let requestURL = 'https://github.com/D4RK08/login/blob/main/utenti.json';
     let request = new XMLHttpRequest();
     request.open('GET', requestURL);
     request.responseType = "json";
