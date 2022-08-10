@@ -28,10 +28,6 @@ document.getElementById("Enter").onclick=function (){
                     window.location = "home.html";
                 }
             }
-            else{
-                console.log("");
-        
-            }
             i++;
         } 
     } 
