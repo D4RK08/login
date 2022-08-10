@@ -1,16 +1,8 @@
 {
     "utent": [
         {
-            "username":"Federico", 
+            "username":"DARKO", 
             "password":"1234"
         },
-        {
-            "username":"Marco", 
-            "password":"1234"
-        },
-        {       
-            "username":"Marzia",
-            "password":"1234"
-        }
     ]
 }
